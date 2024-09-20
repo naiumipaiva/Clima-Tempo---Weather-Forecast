@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/0171eccf-7f62-4249-bb05-3ea0d60b7951)
 
-## CLima Tempo
+## Clima Tempo
 
 Uma aplicação web simples para verificar a previsão do tempo de qualquer lugar do mundo.
 
